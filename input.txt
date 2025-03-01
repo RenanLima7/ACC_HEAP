@@ -1,0 +1,8 @@
+6
+10
+Tarefa1,3
+Tarefa2,5
+Tarefa3,1
+Tarefa4,4
+Tarefa5,2
+Tarefa6,6
