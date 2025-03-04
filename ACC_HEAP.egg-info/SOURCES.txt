@@ -1,5 +1,0 @@
-setup.py
-ACC_HEAP.egg-info/PKG-INFO
-ACC_HEAP.egg-info/SOURCES.txt
-ACC_HEAP.egg-info/dependency_links.txt
-ACC_HEAP.egg-info/top_level.txt
