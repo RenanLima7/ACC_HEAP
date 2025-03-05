@@ -1,4 +1,4 @@
-from priority_queue import PriorityQueue
+from fila_de_prioridade_heap.priority_queue import PriorityQueue
 
 def menu():
     print("\n===== FILA DE PRIORIDADE COM HEAP =====")
