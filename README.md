@@ -27,7 +27,7 @@ python3 main.py
 ## Link para a playlist
 Criamos uma playlist no Youtube com a gravação dos vídeos dos trabalhos
 
-Link: [Acessa a playlist aqui](https://youtube.com/playlist?list=PLa1RCcueG0HI07vfo0ADDnQIIEk5qv0QT&si=_JP3p9qBdqLRVHRh)
+Link: https://youtube.com/playlist?list=PLa1RCcueG0HI07vfo0ADDnQIIEk5qv0QT&si=_JP3p9qBdqLRVHRh
 
 ## Sobre
 O trabalho foi desenvolvidos pelos alunos:
